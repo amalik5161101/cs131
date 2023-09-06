@@ -1,0 +1,381 @@
+    1  exit
+    2  wget www.github.com
+    3  git remote add origin https://github.com/amalik5161101/cs131.git
+    4  cd ~/Desktop
+    5  get init
+    6  git init
+    7  mkdir ws1
+    8  cd ws1
+    9  history > cmds.log
+   10  git status
+   11  git add cmds.log
+   12  git commit -m  "Commit Reason"
+   13  git config --global user.email "abdullah.malik@sjsu.edu"
+   14  git config --global user.name "Abdullah"
+   15  git commit -m "Commit Reason"
+   16  git remote add origin https://github.com/amalik5161101/cs131.git
+   17  git push -u origin main
+   18  git init
+   19  git remote add origin https://github.com/amalik5161101/cs131.git
+   20  git push -u origin main
+   21  git st
+   22  git remote add origin https://github
+   23  git push -u origin main
+   24  git init
+   25  git push -u origin main
+   26  mkdir ws1
+   27  history > cmds.log
+   28  git status
+   29  git add cmds.log
+   30  git commit -m "Reason for Commit"
+   31  git push -u origin main
+   32  git status
+   33  git push -u origin main
+   34  mkdir cs131
+   35  ls
+   36  history
+   37  clear
+   38  man history
+   39  history 5
+   40  history > cmds.log
+   41  ls
+   42  git init
+   43  git status
+   44  cd cs131
+   45  git add cmds.log
+   46  git statusgit add cmds.log
+   47  git add cmds.log
+   48  git init
+   49  git add cmds.log
+   50  git commit -m "ws1"
+   51  git status
+   52  git add cmds.log
+   53  git status
+   54  git remote add origin http://github.com/amalik5161101/cs131.git
+   55  git push -u origin main
+   56  ls cmds.log
+   57  git status
+   58  git add cmds.log
+   59  touch aa.txt
+   60  touch bb.txt
+   61  touch cc.txt
+   62  ;s
+   63  ls *.txt
+   64  ls ?.txt
+   65  mkdir 0828
+   66  cd 0828
+   67  ls *.txt
+   68  touch aa.txt
+   69  touch bb.txt
+   70  touch cc.txt
+   71  ls ?.txt
+   72  touch a.txt
+   73  ls ?.txt
+   74  ls ??.txt
+   75  ls -l *jpeg
+   76  ls -l *.jpeg
+   77  ls -l *.txt
+   78  ls *.txt
+   79  cd ws1/
+   80  ls cmds.log
+   81  cat cmds.log
+   82  history > cmds.log
+   83  cat cmds.log
+   84  cd 131
+   85  cd desktop
+   86  head cmds.log
+   87  tail cmds.log
+   88  less cmds.log
+   89  man head
+   90  head -n 15 cmds.log
+   91  nano cmds.log
+   92  vim cmds.log
+   93  cd cs131
+   94  ls
+   95  cd
+   96  ls
+   97  less cmds.log 
+   98  mv cs131 cs131temp
+   99  ls
+  100  mkdir cs131
+  101  ls
+  102  mv cmds.log cs131/
+  103  ls
+  104  mv cmds.log index.html/
+  105  mv index.html cs131/
+  106  git push -u origin master
+  107  git push -u orign master
+  108  git push -u origin master
+  109  ls
+  110  cd cs131
+  111  ls
+  112  git push -u origin main
+  113  ls
+  114  ls -a
+  115  cd ..
+  116  ls
+  117  ls -a
+  118  rm .git
+  119  rm -rf .git
+  120  ls
+  121  cd cs131
+  122  ls
+  123  mkdir ws1
+  124  mv * ws1/
+  125  ls
+  126  ls ws1
+  127  git init
+  128  git status
+  129  ls
+  130  git remote add origin git@github.com:amalik5161101/cs131.git
+  131  git branch -M main
+  132  git push -u origin main
+  133  git status
+  134  git add .
+  135  git commit -m "first commit"
+  136  git branch -M main
+  137  git remote add git@github.com:amalik5161101/cs131.git
+  138  git push -u origin main
+  139  git remote add origin git@github.com:amalik5161101/cs131.git
+  140  git push -u origin main
+  141  ssh-keygen -R 140.82.112.3
+  142  git push -u origin main
+  143  ssh-keygen -R 140.82.114.4
+  144  git push -u origin main
+  145  ls -a
+  146  cd ..
+  147  ls -a
+  148  vim .ssh/
+  149  vim .ssh/known_hosts
+  150  ssh-keygen -R 140.82.114.4
+  151  git push -u origin main
+  152  cd cs131
+  153  git push -u origin main
+  154  ssh-keygen -R 140.82.112.3
+  155  git push -u origin main
+  156  ssh-keygen -R 140.82.112.3
+  157  git push -u origin main
+  158  git remote add origin https://github.com/amalik5161101/cs131.git
+  159  git remote set-url origin https://github.com/amalik5161101/cs131.git
+  160  git push -u origin main
+  161  touch hellovim.txt
+  162  ls
+  163  i
+  164  ls
+  165  ls
+  166  vim hellovim.txt
+  167  vim hellpvim.txt
+  168  vim hellovim.txt
+  169  vim hellovim.txt
+  170  touch searchfile.txt
+  171  vim searchfile.txt
+  172  sort searchfile.txt
+  173  cat searchfile.txt
+  174  wc searchfile.txt
+  175  man wc
+  176  vim searchfile.txt
+  177  uniq -c searchfile.txt
+  178  sort searchfile.txt > searchfile2.txt
+  179  vim searchfile2.txt
+  180  cat searchfile2.txt
+  181  man grep
+  182  grep hello searchfile.txt
+  183  vim searchfile.txt
+  184  grep hello searchfile.txt
+  185  grep -E "hello{2,5}" searchfile.txt
+  186  grep -E "^h" searchfile.txt
+  187  ls
+  188  vim taxidata
+  189  man grep
+  190  vim taxidata
+  191  grep "2019-03-12" taxidata/2019-03.csv
+  192  grep "","2019-03-12" taxidata/2019-03.csv
+  193  grep ".*,.*,\"2019-03-12.*" taxidata/2019-03.csv | tail -n 20 > results.txt
+  194  ls
+  195  vim results.txt
+  196  grep -c  ".*,.*,\"2019-03-12.*" taxidata/2019-03.csv
+  197  ".*,.*,\"2019-03-12.*" taxidata/2019-03.csv | wc -l
+  198  man wc
+  199  grep -c  ".*,.*,\"2019-03-12.*" taxidata/2019-03.csv
+  200  vim results.txt
+  201  wc results.txt >> results.txt
+  202  vim results.txt
+  203  grep ".*,.*,\"2019-03-12.*" taxidata/2019-03.csv | wc -l >> results.txt
+  204  vim results.txt
+  205  ls
+  206  wget github.com
+  207  gir remote add origin https://github.com/amalik5161101/cs131.git
+  208  git remote add origin https://github.com/amalik5161101/cs131.git
+  209  git init
+  210  cd ~/Desktop
+  211  mkdir ws2
+  212  ls
+  213  git status
+  214  cd ws2
+  215  history > cmds.log
+  216  git add cmds.log
+  217  git add results.txt
+  218  ls
+  219  cd
+  220  ls
+  221  mv results.txt /ws2
+  222  cd cs131
+  223  ls
+  224  mkdir ws2
+  225  ls
+  226  mv results.txt cs131/ws2
+  227  git add
+  228  ls
+  229  cd ws2
+  230  ls
+  231  git add results.txt
+  232  git status
+  233  git remote add origin https://github.com/amalik5161101/cs131.git
+  234  git init
+  235  git status
+  236  ls
+  237  cd cs131
+  238  cd
+  239  cd cs131
+  240  ls
+  241  cd ws2
+  242  cp /datasets/taxidata.tar.gz .
+  243  tar zxvf taxidata.tar.gz
+  244  ls
+  245  grep ".*,.*,\"2019-03-12.*" taxidata/2019-03.csv | tail -n 20 > results.txt
+  246  ls
+  247  vim results.txt
+  248  grep ".*,.*,\"2019-03-12.*" taxidata/2019-03.csv | wc -l >> results.txt
+  249  vim results.txt
+  250  ls
+  251  cd 131
+  252  cd
+  253  cd cs131
+  254  git remote add origin https://github.com/amalik5161101/cs131.git
+  255  cd ws2
+  256  history > cmds.log
+  257  ls
+  258  cd
+  259  cd cs131
+  260  git remote add origin https://github.com/amalik5161101/cs131.git
+  261  git push -u origin main
+  262  ls
+  263  git status
+  264  git add ws2
+  265  cd ws2
+  266  git commit -m newcommit
+  267  git add cmds.log
+  268  git add results.txt
+  269  git status
+  270  cd
+  271  cd cs131
+  272  git add ws2
+  273  cd ws2
+  274  git commit -m newcommit
+  275  cd
+  276  cd cs131
+  277  git add ws2/
+  278  git status
+  279  git push -u origin main
+  280  git commit -m "newcommit"
+  281  git push -u origin main
+  282  git push -u origin man
+  283  git push -u origin main
+  284  cd ws2
+  285  ls
+  286  git status
+  287  git add results.txt
+  288  git add cmds.log
+  289  git status
+  290  ls
+  291  cd
+  292  cd cs131
+  293  git status
+  294  git add ws2
+  295  git status
+  296  cd ws2
+  297  ls
+  298  git add cmds.log
+  299  git add results.log
+  300  git add results.txt
+  301  git status
+  302  cd
+  303  cd cs131
+  304  ls
+  305  git add ws2
+  306  git status
+  307  git add ws2/
+  308  git status
+  309  git add ws2
+  310  cd ws2
+  311  ls
+  312  git status
+  313  git add cmds.log
+  314  git add results.log
+  315  git add results.txt
+  316  cd
+  317  cd cs131
+  318  mkdir ws2
+  319  git add ws2
+  320  git restore ws2
+  321  git status
+  322  git commit -a
+  323  git status
+  324  git add ws2
+  325  git push -u origin main
+  326  cd ws2
+  327  git push -u origin main
+  328  git status
+  329  cd
+  330  cd cs131
+  331  git status
+  332  git add
+  333  git add ws2
+  334  git commit -m "newcommit"
+  335  cd ws2
+  336  git init
+  337  cd
+  338  cd cs131
+  339  git init
+  340  git status
+  341  git add ws2
+  342  git status
+  343  git commit -m "newcommit"
+  344  git commit -m "newcommit2"
+  345  cd ws2
+  346  git commit -m "commit"
+  347  rm -rf .git
+  348  cd
+  349  cd cs131
+  350  ls
+  351  git push -u origin main
+  352  rm ws2
+  353  rmdir ws2
+  354  rm -r ws2
+  355  ls
+  356  git push -u origin main
+  357  touch ws2
+  358  ls
+  359  cd ws2
+  360  rm ws2
+  361  ls
+  362  mkdir ws2
+  363  cd ws2
+  364  git add
+  365  git status
+  366  cp /datasets/taxidata.tar.gz .
+  367  tar zxvf taxidata.tar.gz
+  368  ".*,.*,\"2019-03-12.*" 2019-03.csv | tail -n 20 > results2.txt
+  369  grep ".*,.*,\"2019-03-12.*" 2019-03.csv | tail -n 20 > results2.txt
+  370  grep ".*,.*,\"2019-03-12.*" taxidata/2019-03.csv | tail -n 20 > results.txt
+  371  grep ".*,.*,\"2019-03-12.*" 2019-03.csv | wc -l >> results.txt
+  372  1
+  373  [8:51 PM]
+  374  grep ".*,.*,\"2019-03-12.*" 2019-03.csv | wc -l >> results.txt
+  375  1
+  376  [8:51 PM]
+  377  grep ".*,.*,\"2019-03-12.*" taxidata/2019-03.csv | wc -l >> results.txt
+  378  ls
+  379  vim results.txt
+  380  git status
+  381  history > cmds.log
