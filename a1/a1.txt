@@ -1,0 +1,39 @@
+1).
+
+2).
+Home directory is: /mnt/scratch/abdullah23fa
+
+Command used was: echo $HOME
+
+3).
+My UID is 1021 and there is only one group I belong to named abdullah23fa
+
+Command used were: id abdullah23fa, groups abdullah23fa
+
+4).
+After permissions were removed I was unable to cd into the file.
+I was able to use ls and ls -l to see the file
+I was unable to create files under it since I had no permission
+
+5).
+No, all that would do is make temp2 renamed into temp3 since that
+directory wasn't created.
+
+To cp an entire directory (ex: temp), you would write:  cp cs131/a1/temp
+
+6).
+The meminfo file contains information about memory.
+The cpuinfo file contains information about the cpu.
+
+7).
+73080512 kB
+
+8).
+There are 256 processors. The architecture name is ppc64le.
+The processor speed is 3.425 GHz
+
+9).
+In the os-release file the version is 8.6
+
+10).
+All users can read, write, and execute 
